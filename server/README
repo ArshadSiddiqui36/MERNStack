@@ -1,0 +1,21 @@
+> npm init -y
+
+> npm i express
+
+> npm i mongoose
+
+> npm i dotenv
+
+> npm i bcryptjs
+
+> npm i jsonwebtoken
+
+=> REACT
+> npx create-react-app client
+> npm start
+
+> npm i bootstrap
+
+> npm i react-router-dom
+
+> npm i cookie-parser
