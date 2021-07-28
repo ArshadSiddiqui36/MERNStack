@@ -1,0 +1,107 @@
+/*
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
+
+
+
+/* ............................................................................. */
+.form-group input {
+  border: none;
+  width: 95%;
+  padding: 5px 10px;
+}
+
+.form-group {
+  border-bottom: 1px solid gray;
+}
+
+.form-group.form-button {
+  border-bottom: none;
+}
+
+.form-group input[type=submit] {
+  width: 200px;
+  padding: 5px;
+  background: rgb(72, 255, 72);
+  font-weight: normal;
+  font-variant-caps: all-petite-caps;
+  color: rgb(39, 39, 39);
+  letter-spacing: 2px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.form-group input[type=submit]:hover {
+  background-color: rgb(116, 250, 116);
+}
+
+.form-group i {
+  padding-right: 8px;
+}
+
+.contact_box {
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 4px;
+}
+
+.form-group #contact_form input {
+  width: 100%;
+  border: 1px solid grey;
+}
+
+.home-page {
+  min-height: 80vh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.home-page p {
+  font-variant-caps: all-petite-caps;
+  letter-spacing: 5px;
+  font-weight: 500;
+  font-size: 20px;
+  color: rgb(34, 167, 255);
+}
+.home-page h1 {
+  color: rgba(0, 0, 0, .7);
+  font-weight: bold;
+}
+
+
