@@ -1,0 +1,7 @@
+=> Share code for simple way:
+
+1: Delete the Node Modules folder
+2: Zip it and then share
+3: Unzip the folder then copy the folder in new path
+4: Install the dependencies using yarn/npm install
+5: Simply run it
